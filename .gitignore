@@ -28,9 +28,12 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-.idea/
+idea/
 
-*.iml
+
+new prodjert Andrei.iml
+
+
 
 
 
